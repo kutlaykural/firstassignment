@@ -4,3 +4,5 @@ open.bat
 record.bat
 /node_modules/*
 cypress/fixtures/user.json
+*.mp4
+*.mp4
