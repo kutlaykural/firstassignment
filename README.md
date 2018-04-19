@@ -24,8 +24,9 @@ Solution:
 		once selected Employee can be deleted using "Delete" button that should show up near search field
 		once deleted Logout using left menu user should land on www.bayzat.com again and login link should be available
 
-How to run tests by CLI:
-	Using cypress cli.
+How to run test:
+
+	Using with cypress cli.
 
 
 Bugs:
