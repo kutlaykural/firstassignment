@@ -1,0 +1,6 @@
+
+cypress/videos/2s65d.mp4
+open.bat
+record.bat
+/node_modules/*
+cypress/fixtures/user.json
